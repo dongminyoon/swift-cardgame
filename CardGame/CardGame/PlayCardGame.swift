@@ -9,6 +9,7 @@
 import Foundation
 
 struct PlayCardGame {
+    
     // 게임을 실행
     static func playGame(with cardDeck: CardDeck, who dealar: Dealer) {
         var menuInput : String
